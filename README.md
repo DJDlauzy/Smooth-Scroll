@@ -1,6 +1,6 @@
 Smooth Scroll Anchor Links
-A simple JavaScript script to enable smooth scrolling for anchor links on any webpage. Made by Djay :3
-Features
+A simple JavaScript script to enable smooth scrolling for anchor links on any webpage.
+
 
 Smooth scrolling for all <a> tags with # hrefs.
 Configurable scroll offset (e.g., to account for fixed headers).
